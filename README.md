@@ -15,5 +15,3 @@
 -Accuracy may get reduced due to luminance
 
 -Use of a better camera may increase its performance
-
--link for video : https://youtu.be/nanu8s4YM94
