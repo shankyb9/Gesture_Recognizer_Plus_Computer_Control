@@ -15,3 +15,6 @@
 -Accuracy may get reduced due to luminance
 
 -Use of a better camera may increase its performance
+
+# Author 
+Shashank Bhalotia
