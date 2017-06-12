@@ -16,5 +16,3 @@
 
 -Use of a better camera may increase its performance
 
-# Author 
-Shashank Bhalotia
